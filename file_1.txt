@@ -1,0 +1,5 @@
+#git init -> initialize the repository
+#git add -> add files to index and allow users to git commit some files
+#git commit
+#git push -> allow users to upload local files to github
+#git clone -> allow users to download remote files to local
